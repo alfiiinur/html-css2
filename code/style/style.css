@@ -1,0 +1,56 @@
+:root {
+    --black :rgba(0,0,0,1);
+    --mine-shaft: rgba(52,51,51,1);
+    --thunderbird : rgba(197, 34, 31, 1);
+    --alto-2 : rgba(217, 217, 217, 0.6);
+    --alto : rgba(217, 217, 217, 1);
+    --yellow-orange : rgba(255, 185, 79, 1);
+    --white : rgba(255, 255, 255, 0.6);
+    --white : rgba(255, 255, 255, 1);
+
+    --font-size-s : 18px;
+    --font-size-m : 20px;
+    --font-size-l : 24px;
+    --font-size-xl : 28px;
+    --font-size-xxl : 35px;
+    --font-size-xxxl : 36px;
+    --font-size-xxxxl : 48px;
+
+    --font-family-poppins : "Poppins";
+}
+
+
+
+.poppins-normal-white-24px {
+    color : var(--white);
+    font-family : var(--font-family-poppins);
+    font-size : var(--font-size-l);
+    font-weight : 400;
+    font-style : normal;
+}
+
+.poppins-medium-mine-shaft-30px {
+    color : var(--mine-shaft);
+    font-family : var(--font-family-poppins);
+    font-size : var(--font-size-xl);
+    font-weight : 500;
+    font-style : normal;
+}
+
+.poppins-normal-white-18px {
+    color : var(--white);
+    font-family : var(--font-family-poppins);
+    font-size : var(--font-size-s);
+    font-weight : 400;
+    font-style : normal;
+}
+
+.poppins-normal-white-20px {
+    color : var(--white);
+    font-family : var(--font-family-poppins);
+    font-size : var(--font-size-m);
+    font-weight : 400;
+    font-style : normal;
+}
+
+
